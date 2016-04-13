@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qpCountdown_Screensaver", "qpCountdown_Screensaver\qpCountdown_Screensaver.csproj", "{A2AF1027-BC7D-4FFA-898A-83797518177D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2AF1027-BC7D-4FFA-898A-83797518177D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AF1027-BC7D-4FFA-898A-83797518177D}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{A2AF1027-BC7D-4FFA-898A-83797518177D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AF1027-BC7D-4FFA-898A-83797518177D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
