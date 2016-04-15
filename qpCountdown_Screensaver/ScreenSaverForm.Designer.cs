@@ -44,6 +44,8 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "00:00:00:00";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.ScreenSaverForm_MouseClick);
+            this.label1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.ScreenSaverForm_MouseMove);
             // 
             // tickTimer
             // 
